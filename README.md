@@ -1,9 +1,12 @@
 # HR Analytics Dashboard (Excel + VBA)
-An automated HR MIS dashboard built using Excel, Power Query, and VBA to track employee performance, monitor attrition, and streamline reporting.
+
+An automated HR MIS dashboard built using Excel, Power Query, and VBA to track employee performance, monitor attrition, and streamline reporting workflows.
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard_pic.png)
 
 ## 📌 Overview
-This project is an end-to-end HR Analytics and MIS dashboard built using Excel, Power Query, and VBA.  
-It helps track employee performance, monitor attrition, and automate reporting workflows.
+This project is an end-to-end HR Analytics and MIS dashboard. It helps analyze employee behavior, identify attrition patterns, and automate reporting processes.
 
 ## 📊 Key Features
 - Integrated multiple HR datasets into a centralized master dataset  
@@ -38,3 +41,10 @@ Full Excel file: [Google Drive Link](https://drive.google.com/drive/folders/1DUA
 
 ### Employee Detail
 ![Employee](employee_details_sheet.png)
+
+## 🛠 Tools Used
+- Excel  
+- Power Query  
+- VBA  
+- Pivot Tables  
+- XLOOKUP  
