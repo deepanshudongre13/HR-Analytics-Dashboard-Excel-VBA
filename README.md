@@ -25,7 +25,8 @@ It helps track employee performance, monitor attrition, and automate reporting w
 Full Excel file: [Google Drive Link](https://drive.google.com/drive/folders/1DUAZFX8s0GNJinVl3vP_z5jLNQFGCEWd?usp=drive_link)
 
 ## 📷 Screenshots
-![Dashboard](dashboard.png)
-![Attrition](attrition.png)
-![Monthly](monthly.png)
-![Employee](employee.png)
+
+![Dashboard](dashboard_pic.png)
+![Attrition](attrition_analysis_sheet_pic.png)
+![Monthly](monthly_analysis_sheet_pic.png)
+![Employee](employee_details_sheet.png)
