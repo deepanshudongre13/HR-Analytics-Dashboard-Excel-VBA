@@ -26,7 +26,14 @@ Full Excel file: [Google Drive Link](https://drive.google.com/drive/folders/1DUA
 
 ## 📷 Screenshots
 
+### Dashboard
 ![Dashboard](dashboard_pic.png)
+
+### Attrition Analysis
 ![Attrition](attrition_analysis_sheet_pic.png)
+
+### Monthly Analysis
 ![Monthly](monthly_analysis_sheet_pic.png)
+
+### Employee Detail
 ![Employee](employee_details_sheet.png)
